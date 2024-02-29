@@ -4,12 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Akeem845 - Personal Biography</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
+        /* Add any additional custom CSS here */
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            margin: 0;
-            padding: 0;
             background-color: #f0f0f0;
         }
         header {
@@ -20,22 +21,6 @@
         }
         header h1 {
             margin: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 5px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            margin-top: 20px;
-        }
-        h2 {
-            color: #333;
-        }
-        p {
-            margin: 10px 0;
-            color: #666;
         }
     </style>
 </head>
@@ -72,5 +57,13 @@
         </section>
     </div>
 
+    <!-- Bootstrap JS and jQuery (Optional) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <!-- Add your custom JavaScript code here -->
+    <script>
+        // Add your JavaScript functionality here
+    </script>
 </body>
 </html>
